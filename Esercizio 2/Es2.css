@@ -1,0 +1,16 @@
+h2 {
+    color: rgb(199, 104, 9);
+}
+
+button {
+    margin-top: 1em;
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(78, 147, 21);
+    width: 100px;
+}
+
+form {
+    margin-top: 1em;
+    color: rgb(112, 12, 206);
+}
